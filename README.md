@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swati
-- 👀 I’m interested in learning Git hub
+- 👀 I’m interested in learning Git hub and python.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python project.
 
