@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patilswati
+- 👋 Hi, I’m @Swati
 - 👀 I’m interested in learning Git hub
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python project.
